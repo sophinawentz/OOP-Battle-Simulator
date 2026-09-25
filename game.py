@@ -25,7 +25,7 @@ def battle(hero: Hero, enemy: Goblin):
 
 def main():
     """Open the arena and introduce its first opponent."""
-    print(f"Welcome to {Death}!")
+    print(f"Welcome to Death!")
     print("༼ ᓄºل͟º ༽ᓄ   ᕦ(ò_óˇ)ᕤ")
     print("The gates are opening...")
 
